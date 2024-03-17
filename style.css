@@ -1,0 +1,12 @@
+html, body {
+    height: 100%; 
+    margin: 0; 
+    padding: 0; /
+}
+
+body {
+    background-image: url('poze/indoors-bookshelf-modern-design-comfortable-armchair-generative-ai.jpg');
+    background-size: 1366px 786px; 
+    background-position: center; 
+    background-repeat: no-repeat;
+}
